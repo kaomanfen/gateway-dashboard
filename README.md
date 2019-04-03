@@ -8,7 +8,7 @@
 ```bash
 
 # Clone project
-git clone https://git.100tal.com/kaomanfen_open_source/admin-view.git
+git clone https://github.com/kaomanfen/gateway-dashboard.git
 
 # Install dependencies
 npm install
